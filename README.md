@@ -2,8 +2,6 @@
 
 Desarrollador Web Full Stack y Perito en Informática (C.E.T.L. Kinal, Guatemala).
 
-Actualmente en prácticas profesionales en **Grupo Sega**, brindando soporte técnico para **Bac Credomatic**, mientras sigo construyendo proyectos propios como desarrollador.
-
 ##  Stack
 
 `Java` · `JavaScript` · `Node.js` · `.NET` · `Docker` · `CSS` · `Git`
